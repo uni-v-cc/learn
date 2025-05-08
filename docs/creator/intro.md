@@ -1,0 +1,33 @@
+---
+sidebar_position: 1
+---
+
+# 👋 Welcome!
+
+Thanks for choosing Uni-V.CC!
+
+This section is meant to help you learn important things about how the platform functions and what requirements it has to enable you publishing custom assets!
+
+## Prerequisites
+
+Before you start uploading your creations to Uni-V.CC you must first apply for creator!
+
+After logging in (learn more in [Accounts](../user/basics/account.md) page), please go to your Dashboard.
+
+There you'll see the `Apply for Creator` button:
+
+![](./img/creator-apply.png)
+
+Click on the yellow string of text (Your Account ID), and paste it in the form that will open upon pressing the button.
+
+Fill out the rest of the form and submit.
+After that just wait till you get approved!
+
+## Platform Support
+
+Here's a list of supported platforms for Uni-V.CC:
+
+- [Gumroad](https://gumroad.com/)
+- [Jinxxy](https://jinxxy.com/)
+
+Itch.io was considered, but its restrictive APIs make it unfeasable as of right now.
