@@ -17,7 +17,7 @@ This platform is intended to simplify avatar creation and asset management with 
 
 ## What we don't do:
 - Share creator's assets without their involvement;
-- Rip off / piracy;
+- Avatar ripping / piracy;
 - Sell you assets directly;
 
 Every package that you unlock must be activated with a valid license key from supported platform (ex. Gumroad, Jinnxy) to appear in your Creator Companion.
