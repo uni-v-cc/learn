@@ -1,0 +1,8 @@
+{
+  "label": "Good Practices",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Set of useful tips and tricks when developing avatars and prefabs in Unity."
+  }
+}
