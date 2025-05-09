@@ -34,6 +34,22 @@ After moving things out, your scene should look something like this:
 
 The icons would change to reflect it's a prefab (or variant of).
 
+## Updating prefab
+
+To update your prefab, double click on it as it was a scene, and add features inside. If you've done things correctly, once you open a scene with said prefab, you'll see those changes appear on the scene.
+
+Alternatively, if you've done any changes inside a scene with the prefab variant, you can click on the root GameObject of the prefab (in Hierarchy), you can apply the updates (overrides).
+
+Navigate to inspector and click `Apply All`:
+
+![](./img/pf/prefabs-upd.png)
+
+Alternatively, if you want to apply only some of the changes, hold `Ctrl` and left-click all changes you want to apply. Then click on `Apply Selected`:
+
+![](./img/pf/prefabs-upd-sel.png)
+
+And if you feel like some changes didn't work out either, you can just revert them as well.
+
 ## So why bother?
 
 Prefabs are great for end users to tinker around with. They offer a set of 'pre-baked' features as a reference file, which can be put into any scene, and will retain the link between updates.
