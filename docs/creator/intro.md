@@ -30,5 +30,3 @@ Here's a list of supported platforms for Uni-V.CC:
 - [Gumroad](https://gumroad.com/)
 - [Jinxxy](https://jinxxy.com/)
 - [itch.io](https://itch.io/)
-
-Itch.io was considered, but its restrictive APIs make it unfeasable as of right now.
