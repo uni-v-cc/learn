@@ -15,7 +15,7 @@ Signing in with Gumroad will not grant us access to your purchases.
 This is a limitation on Gumroad's end.
 :::
 
-After signing in, you should see your [Dashboard](https://uni-v.cc/dashboard).
+After signing in, you should see your [Dashboard](https://uni-v.cc/dash).
 
 There you can link other accounts to log into the same account, as well as a few other buttons.
 

@@ -14,7 +14,7 @@ Product is a link between package on Uni-V.CC and third-party service.
 
 ## Creation
 
-In your [Creator Dashboard](https://uni-v.cc/creator-dashboard), click `New Package...`
+In your [Creator Dashboard](https://uni-v.cc/dash/creator), click `New Package...`
 
 You'll see a few required fields you must fill out before creating the package:
 
@@ -37,11 +37,23 @@ You'll also see the `List this Package` section, which will be unlisted by defau
 
 Once you have everything linked together, you can list the package.
 
+## Package Distributables
+
+Your package may have one or more version available to be activated by the end user.
+
+Navigate to `Distributables` tab on the top, and create a new variant of your package!
+
+You'll need at least one variant.
+
+The name will be displayed to the users viewing package's page, so pick the name carefully!
+
+The Sub-Id can be either empty (if you have just one version that's perfectly fine), or a lowercase suffix.
+
 ## Product Linking
 
-Before publishing a package, you will have to connect your package to at least one product for it to be obtainable.
+Before publishing a package, you will have to connect your distributable to at least one product for it to be obtainable.
 
-Click on `Link To Product` in your package editor, wait for it to load (it usually takes a few seconds to load).
+Click on `Link To Product` in your distributable editor, wait for it to load (it usually takes a few seconds to load).
 
 Choose a platform, find a correct product, expand it and select the version of the product that you want to link to by clicking on `Use this Product` button.
 
@@ -53,7 +65,7 @@ You can also choose a thumbnail from a similar popup by clicking on `Select Thum
 
 ## Versions
 
-In the package editor, you'll see `Manage Versions` tab. Upon opening it, you'll see an `Upload...` button and list of versions you have uploaded to Uni-V.CC with a search bar.
+In the distributable editor, you'll see `Versions` tab. Upon opening it, you'll see an `Upload...` button and list of versions you have uploaded to Uni-V.CC with a search bar.
 
 Uploading a new version consists of three steps:
 - Selecting and uploading .unitypackage file
@@ -67,3 +79,5 @@ Uploading a new version consists of three steps:
     *Here are a few common dependencies you might want to use:*
     - `com.vrcfury.vrcfury` - VRCFury
     - `com.poiyomi.toon` - Poiyomi Toon
+
+Version search queries the versions by their display name (ex. `1.0.0`)
