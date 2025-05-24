@@ -20,6 +20,6 @@ This platform is intended to simplify avatar creation and asset management with 
 - Avatar ripping / piracy;
 - Sell you assets directly;
 
-Every package that you unlock must be activated with a valid license key from supported platform (ex. Gumroad, Jinnxy) to appear in your Creator Companion.
+Every package that you unlock must be activated with a valid license key from supported platform (ex. Gumroad, Jinnxy, itch.io) to appear in your Creator Companion.
 
 **Get started by getting familiar with [Accounts](./basics/account.md)!**
