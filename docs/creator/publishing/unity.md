@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Prerequisites
 
-To get your asset ready, you must first install `UniVCC - Resolver` in the VCC's package management.
+To get your asset ready, you must first install `Uni-V.CC - Resolver` in the VCC's package management.
 
 ![](./img/univcc-resolver.png)
 
