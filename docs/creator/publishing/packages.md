@@ -14,7 +14,7 @@ Product is a link between package on Uni-V.CC and third-party service.
 
 ## Creation
 
-In your [Creator Dashboard](https://uni-v.cc/dash/creator), click `New Package...`
+In your [Published Packages](https://uni-v.cc/dash/tabs/my-packages) tab, click `New Package...`
 
 You'll see a few required fields you must fill out before creating the package:
 
@@ -61,7 +61,13 @@ Choose a platform, find a correct product, expand it and select the version of t
 
 If everything goes okay, you will see the product links appear on the right sidebar of the package editor.
 
-You can also choose a thumbnail from a similar popup by clicking on `Select Thumbnail` button. It will not show products without a thumbnail image.
+You can also choose a thumbnail from a similar popup by clicking on `Select Thumbnail` button inside the package overview. It will not show products without a thumbnail image.
+
+## Age rating
+
+All tags imply their age rating, and the highest one will be taken when evaluating age rating of your package.
+
+If the tags don't offer the suitable age rating, consider using `mature` or `adult` tags to manually set the content rating.
 
 ## Versions
 
