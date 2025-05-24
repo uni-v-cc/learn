@@ -79,11 +79,21 @@ Uploading a new version consists of three steps:
   :::info
   The version information you put is saved in your browser, making subsequent updates quicker to fill out.
   :::
-  - Version (ex. 1.0.0, 1.4.0 etc)
+  - Version (ex. `1.0.0`, `>=1.4.0`, `^3.x` etc)
   - Unity (2019.4, 2022.3 etc)
   - Dependencies: list of dependencies with minimal supported versions.
     *Here are a few common dependencies you might want to use:*
+    - `com.vrchat.avatars` - VRChat SDK for avatars
     - `com.vrcfury.vrcfury` - VRCFury
     - `com.poiyomi.toon` - Poiyomi Toon
 
 Version search queries the versions by their display name (ex. `1.0.0`)
+
+### Semver
+
+Following the versions may be a little overwhelming, so here's a quick rundown of what you should specify:
+
+- Exact version (ex. `1.2.5`) - this matches this version only.
+- Versions until (ex. `<4.2`) - this matches any version prior to the specified version.
+- Versions after (ex. `>=3.0.0`) - this matches any version after the specified version or the specified version itself.
+- Versions compatible with (ex. `^3.x`) - this matches any version compatible with any v3. Versions like 2.9.9 or 4.0.0 will not match.
