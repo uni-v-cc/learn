@@ -16,7 +16,7 @@ After logging in (learn more in [Accounts](../user/basics/account.md) page), ple
 
 There you'll see the `Apply for Creator` button:
 
-![](./img/creator-apply.png)
+![Applying for creator](./img/creator-apply.png)
 
 Click on the yellow string of text (Your Account ID), and paste it in the form that will open upon pressing the button.
 
