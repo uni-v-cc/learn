@@ -31,7 +31,7 @@ When considering supporter-only features, we follow a few simple rules:
 - 🔁 If part of the VPM repo, it must be **replaceable with free alternatives**  
 - 💡 Must provide **real value** to our supporters
 
-If you have an idea that meets these criteria, let us know via [email](mailto:support@uni-v.cc) or [Discord](https://uni-v.cc/go/discord)!  
+If you have an idea that meets these criteria, let us know via [email](mailto:hello@uni-v.cc) or [Discord](https://uni-v.cc/go/discord)!  
 We love hearing from the community.
 
 ---
