@@ -8,7 +8,7 @@ From the previous topic, you've noticed the `Your token is ✅ Active` label. So
 
 When adding the repository, you may notice the url is rather long. It contains the account token on Uni-V.CC, which is used to identify you, and what license keys you've activated on the platform.
 
-What you also (probably) noticed inside [`VCC Token`](https://uni-v.cc/dash/tabs/tokens) tab is the `Suspend Token` and `Reset Token` buttons.
+What you also (probably) noticed inside [`VCC Token`](https://uni-v.cc/dash/tokens) tab is the `Suspend Token` and `Reset Token` buttons.
 
 :::danger Important
 While account tokens are not the key to accessing your account, they are still sensitive piece of information that you should keep secure.

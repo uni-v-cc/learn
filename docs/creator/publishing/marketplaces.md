@@ -8,7 +8,7 @@ Uni-V.CC does not offer a way to puchase packages directly, and instead it relie
 
 You will need to link supported marketplaces (see [Platform Support](../intro.md#platform-support)).
 
-Navigate to [Marketplaces](https://uni-v.cc/dash/tabs/marketplaces) tab:
+Navigate to [Marketplaces](https://uni-v.cc/dash/marketplaces) tab:
 
 ![](./img/marketplaces.png)
 

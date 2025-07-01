@@ -14,7 +14,7 @@ Product is a link between package on Uni-V.CC and third-party service.
 
 ## Creation
 
-In your [Published Packages](https://uni-v.cc/dash/tabs/my-packages) tab, click `New Package...`
+In your [Published Packages](https://uni-v.cc/dash/my-packages) tab, click `New Package...`
 
 You'll see a few required fields you must fill out before creating the package:
 
