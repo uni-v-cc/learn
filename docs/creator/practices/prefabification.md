@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Prefabification
 
-This is one of the most important tips, and is a requirement to publish assets on Uni-V.CC.
+This is one of the most important tips, and is a requirement to publish assets on Uni-VCC.
 
 Keep your assets as prefabs and/or prefab variants!
 
@@ -56,4 +56,4 @@ Prefabs are great for end users to tinker around with. They offer a set of 'pre-
 
 Whenever the end user updates to newer version of the prefab, the overrides (like third party addons) will remain, while the prefab itself receives the desired feature updates.
 
-These same prefabs are also used by Uni-V.CC to import on end user's scene. Additionally, Uni-V.CC copies the material and relevant textures into `_UniVCC-Avatars/AvatarName/Materials` and `_UniVCC-Avatars/AvatarName/Textures` in an easy and predictable way.
+These same prefabs are also used by Uni-VCC to import on end user's scene. Additionally, Uni-VCC copies the material and relevant textures into `_UniVCC-Avatars/AvatarName/Materials` and `_UniVCC-Avatars/AvatarName/Textures` in an easy and predictable way.

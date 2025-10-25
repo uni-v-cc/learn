@@ -6,15 +6,15 @@ sidebar_position: 4
 
 ## Packages vs Products
 
-By Uni-V.CC's definition, these are two disctinct entities;
+By Uni-VCC's definition, these are two disctinct entities;
 
 Package is what people see when searching for assets. It has name, summary and a list of linked products.
 
-Product is a link between package on Uni-V.CC and third-party service.
+Product is a link between package on Uni-VCC and third-party service.
 
 ## Creation
 
-In your [Published Packages](https://uni-v.cc/dash/my-packages) tab, click `New Package...`
+In your [Published Packages](https://uni-vcc.app/dash/my-packages) tab, click `New Package...`
 
 You'll see a few required fields you must fill out before creating the package:
 
@@ -71,7 +71,7 @@ If the tags don't offer the suitable age rating, consider using `mature` or `adu
 
 ## Versions
 
-In the distributable editor, you'll see `Versions` tab. Upon opening it, you'll see an `Upload...` button and list of versions you have uploaded to Uni-V.CC with a search bar.
+In the distributable editor, you'll see `Versions` tab. Upon opening it, you'll see an `Upload...` button and list of versions you have uploaded to Uni-VCC with a search bar.
 
 Uploading a new version consists of three steps:
 - Selecting and uploading .unitypackage file

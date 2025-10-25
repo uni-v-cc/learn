@@ -10,11 +10,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Learn Uni-V.CC',
-  tagline: 'Get started with Uni-V.CC.\nThe central repository for all your VRChat Creator Companion needs!',
+  title: 'Learn Uni-VCC',
+  tagline: 'Get started with Uni-VCC.\nThe central repository for all your VRChat Creator Companion needs!',
   favicon: 'img/favicon.ico',
 
-  url: 'https://learn.uni-v.cc',
+  url: 'https://learn.uni-vcc.app',
   baseUrl: '/',
 
   organizationName: 'uni-v-cc',
@@ -50,10 +50,10 @@ const config = {
     ({
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Uni-V.CC',
+        title: 'Uni-VCC',
         logo: {
-          alt: 'Uni-V.CC Logo',
-          src: 'https://uni-v.cc/favicon.png',
+          alt: 'Uni-VCC Logo',
+          src: 'https://uni-vcc.app/favicon.png',
         },
         items: [
           {
@@ -96,16 +96,16 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://uni-v.cc/go/discord',
+                href: 'https://uni-vcc.app/go/discord',
               },
               {
                 label: 'Bluesky',
-                href: 'https://uni-v.cc/go/bsky',
+                href: 'https://uni-vcc.app/go/bsky',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Uni-V.CC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Uni-VCC. Built with Docusaurus.`,
       },
       prism: {
         additionalLanguages: ['json', 'properties'],

@@ -2,12 +2,12 @@
 sidebar_position: 5
 ---
 
-# Supporting Uni-V.CC
+# Supporting Uni-VCC
 
-Help us grow and sustain the Uni-V.CC project by supporting us on [Patreon](https://uni-v.cc/go/patreon)!  
+Help us grow and sustain the Uni-VCC project by supporting us on [Patreon](https://uni-vcc.app/go/patreon)!  
 Your contribution helps cover operational costs and enables us to keep building great tools for the community.
 
-**Before pledging**, please make sure to connect your Patreon account in the [**Connections**](https://uni-v.cc/dash/connections) tab of your dashboard. This is required for you to receive all the perks linked to your support.
+**Before pledging**, please make sure to connect your Patreon account in the [**Connections**](https://uni-vcc.app/dash/connections) tab of your dashboard. This is required for you to receive all the perks linked to your support.
 
 ---
 
@@ -31,9 +31,9 @@ When considering supporter-only features, we follow a few simple rules:
 - 🔁 If part of the VPM repo, it must be **replaceable with free alternatives**  
 - 💡 Must provide **real value** to our supporters
 
-If you have an idea that meets these criteria, let us know via [email](mailto:hello@uni-v.cc) or [Discord](https://uni-v.cc/go/discord)!  
+If you have an idea that meets these criteria, let us know via [email](mailto:hello@uni-v.cc) or [Discord](https://uni-vcc.app/go/discord)!  
 We love hearing from the community.
 
 ---
 
-Thanks for helping make Uni-V.CC possible! 💜
+Thanks for helping make Uni-VCC possible! 💜

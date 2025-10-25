@@ -4,11 +4,11 @@ sidebar_position: 3
 
 # Marketplaces
 
-Uni-V.CC does not offer a way to puchase packages directly, and instead it relies on third parties to handle purchasing.
+Uni-VCC does not offer a way to puchase packages directly, and instead it relies on third parties to handle purchasing.
 
 You will need to link supported marketplaces (see [Platform Support](../intro.md#platform-support)).
 
-Navigate to [Marketplaces](https://uni-v.cc/dash/marketplaces) tab:
+Navigate to [Marketplaces](https://uni-vcc.app/dash/marketplaces) tab:
 
 ![](./img/marketplaces.png)
 

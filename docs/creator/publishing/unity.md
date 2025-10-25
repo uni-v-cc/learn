@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Prerequisites
 
-To get your asset ready, you must first install `Uni-V.CC - Resolver` in the VCC's package management.
+To get your asset ready, you must first install `Uni-VCC - Resolver` in the VCC's package management.
 
 ![](./img/univcc-resolver.png)
 
@@ -16,7 +16,7 @@ Make sure you've added the [VPM Repository](../../user/basics/repository.md) to 
 
 Afterwards, in Unity's project files tab, go to the root path of your avatar, ex. `Assets/Avatars/AvatarName/` where all root folders related to your avatars are located.
 
-In the root, create a new asset package (`Create` > `VRChat` > `Uni-V.CC` > `Asset Package`)
+In the root, create a new asset package (`Create` > `VRChat` > `Uni-VCC` > `Asset Package`)
 
 ![](./img/asset-package-unity.png)
 
@@ -61,7 +61,7 @@ After setting the value, you'll notice a new section appear.
 
 ### Prefabs:
 
-This is a list of prefabs that Uni-V.CC will resolve when end users will be importing your package.
+This is a list of prefabs that Uni-VCC will resolve when end users will be importing your package.
 
 Click on `Select` button on the right, and choose a `.prefab` file.
 
