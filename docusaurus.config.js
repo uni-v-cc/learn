@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learn Uni-VCC',
-  tagline: 'Get started with Uni-VCC.\nThe central repository for all your VRChat Creator Companion needs!',
+  tagline: 'Get started with Uni-VCC.\nThe united repository for delivering packages into VRChat Creator Companion.',
   favicon: 'img/favicon.ico',
 
   url: 'https://learn.uni-vcc.app',
