@@ -35,19 +35,21 @@ Uni-VCC will send an **`HTTP POST`** request to your endpoint over **https** pro
 {
     "license": "USER-LICENSE-KEY",
     "variant": "CREATOR_DEFINED_VARIANT",
-    "language": "en_US",
+    "language": "en-US",
+    "distro": "com.yourpackage.distro",
     "uids": {
         "creator": "product creator uid",
+        "product": "product uid",
         "distro": "distributable package uid",
-        "product": "product uid"
+        "package": "package uid"
     }
 }
 ```
 
 :::tip
-The "language" is a string representation of `java.util.Locale.toString()` (for now it's only en_US).
+The "language" is a string representation of IETF BCP 47 language tag (for now it's only en-US).
 
-If you don't support a given language, your response must be localized in en_US locale.
+If you don't support a given language, your response must be localized in en-US locale.
 :::
 
 :::danger
