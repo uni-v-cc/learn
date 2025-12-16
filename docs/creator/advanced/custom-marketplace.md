@@ -34,7 +34,6 @@ Uni-VCC will send an **`HTTP POST`** request to your endpoint over **https** pro
 ```json
 {
     "license": "USER-LICENSE-KEY",
-    "variant": "def",
     "language": "en-US",
     "distro": "com.yourpackage.distro",
     "uids": {
